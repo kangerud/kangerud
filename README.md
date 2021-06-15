@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kangerud
 - 👀 I’m interested in economics, statistics, and data science
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning predictive analytics, time series, statistical analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... LinkedIn: Kevin Langerud
